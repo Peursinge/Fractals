@@ -8,5 +8,6 @@ int main(int argc, char *argv[]){
     SDL_Delay(2000);
     SDL_DestroyWindow(window);
     SDL_Quit();
+    //aaaaaaaaaaaaaaaa
     return 0;
 }
