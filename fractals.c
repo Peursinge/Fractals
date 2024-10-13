@@ -16,7 +16,7 @@ int main(int argc, char *argv[]){
     SDL_RenderDrawPoint(renderer, 640/2, 480/2);
 
     SDL_RenderPresent(renderer);
-    SDL_delay(10000);
+    SDL_Delay(10000);
 
     
     return 0;
